@@ -1,25 +1,16 @@
-## Welcome to [Learn React](https://scrimba.com/learn-react-c0e)
+# Learn React - My Challenge Solutions
 
-Here, you can find the starter files for all the challenges in the course. To get started, download the entire repo and then navigate to the folder you need - the folders are structured just like the course. 
+This repo holds my personal solutions to every challenge in
+[Scrimba’s Learn React course](https://scrimba.com/learn-react-c0e).
+I’m using it as a learning log and a way to revisit concepts later.
 
-If you have any problems at all, feel free to join our [Discord server](scrimba.com/discord) where you can connect with other learners.
+## How It’s Organized
+- Each folder matches the corresponding course section.
+- Inside each folder you’ll find my final code for that challenge, and a README with the challenge details and additional reference links.
 
-Happy coding!
-
-## Links from slides:
-Use Ctrl/Command + F to search for the one you need below 🔍
-
-### General Links:
-- Join the Scrimba Discord Server: https://scrimba.com/discord
-- Scrimba Discord today-i-did channel: https://scrimba.com/links/discord-today-i-did
-- How to use Figma for Developers: https://scrimba.com/links/figma-walkthrough
+## Course Resources and Structure
 
 ### Section 1: Static Pages
-- Tutorial Hell Article: https://scrimba.com/links/tutorial-hell
-- Learn HTML: https://scrimba.com/links/learn-html
-- Learn CSS: https://scrimba.com/links/learn-css
-- Learn JavaScript: https://scrimba.com/links/learn-javascript
-- Connect with Bob Ziroll on X: https://x.com/bobziroll
 - ReactFacts Figma Design: https://scrimba.com/links/figma-reactfacts
 - Vitejs Homepage: https://scrimba.com/links/vite-homepage
 - Installing Nodejs with NVM (YouTube search link): https://www.youtube.com/results?search_query=install+nodejs+with+nvm
